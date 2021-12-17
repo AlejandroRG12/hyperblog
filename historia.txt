@@ -1,2 +1,2 @@
-Hola, el dia de hoy te contare la hisotira de la ves que comence
+Hola, el dia de hoy te narrare la hisotira de la ves que comence
 a usar git y github todo comenso con un curso que tome.
